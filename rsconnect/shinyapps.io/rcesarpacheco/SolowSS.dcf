@@ -1,0 +1,12 @@
+name: SolowSS
+title: SolowSS
+username: rcesarpacheco
+account: rcesarpacheco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12245255
+bundleId: 8797227
+url: https://rcesarpacheco.shinyapps.io/SolowSS/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
