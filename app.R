@@ -28,7 +28,7 @@ ui <- fluidPage(
   fluidRow(
     column(12,
              p("This app calculates and visualizes the steady state in the Solow Model."),
-            p("The production function is given by \\(Y = A K^{1/3} \\cdot L^{2/3}\\) where A is the productivity parameter, K is the capital stock, and L is the labor force"),
+            p("The production function is given by Y = A * K^(1/3) * L^(2/3) where A is the productivity parameter, K is the capital stock, and L is the labor force"),
            p("Adjust the sliders to change the values and see the effects on investment, output, and depreciation.")
     )
   ),
